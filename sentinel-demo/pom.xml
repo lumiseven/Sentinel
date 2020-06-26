@@ -39,7 +39,10 @@
         <module>sentinel-demo-spring-webmvc</module>
         <module>sentinel-demo-zuul2-gateway</module>
         <module>sentinel-demo-log-logback</module>
+        <module>sentinel-demo-okhttp</module>
         <module>sentinel-demo-jax-rs</module>
+        <module>sentinel-demo-quarkus</module>
+        <module>sentinel-demo-annotation-cdi-interceptor</module>
     </modules>
 
     <dependencies>
